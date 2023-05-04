@@ -1,0 +1,111 @@
+.btn-primary {
+    background-color: #1a3a32;
+    border-color: #1a3a32;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    border-color: #1a3a32;
+    color: #1a3a32;
+}
+
+.btn-primary:active {
+    background-color: #1a3a32 !important;
+    border-color: #1a3a32 !important;
+}
+
+.btn-secondary {
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+
+.btn-secondary:hover {
+    background-color: #ff7534;
+    border-color: #ff7534;
+    color: #1a3a32;
+}
+
+.btn-secondary:active {
+    background-color: white !important;
+    border-color: white !important;
+    color: black !important;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.align-right {
+    float: right;
+}
+
+.pa-30 {
+    padding: 30px;
+}
+
+.pa-0 {
+    padding: 0px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.offer-button {
+    height: 50px;
+    width: 100%;
+}
+
+.sm-text {
+    font-size: small;
+}
+
+.primary {
+    color: #1a3a32;
+}
+
+.secondary-green {
+    color: #378e54;
+}
+
+.black {
+    color: black;
+}
+
+.gray {
+    color: #939799;
+}
+
+.light-gray {
+    background-color: rgb(244, 244, 244);
+}
+
+.section {
+    border-bottom: 1px solid lightgray;
+}
+
+img {
+    width: 83px;
+    height: 100px;
+}
